@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Missing Files
+
+Due to privacy and security concerns, some files have been intentionally removed from this repository. These files contain sensitive information, such as API keys, passwords, or personal data, which cannot be shared publicly.
+
+If you need access to these files, please contact the project maintainer.
+
+
 ## Getting Started
 
 First, run the development server:
